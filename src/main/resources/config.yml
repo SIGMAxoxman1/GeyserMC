@@ -1,0 +1,11 @@
+# GeyserFix Configuration
+# These values will be written into Geyser's config.yml BEFORE Geyser loads
+
+# Bedrock port (the port Bedrock players connect to)
+bedrock-port: "10160"
+
+# Bedrock address
+bedrock-address: "0.0.0.0"
+
+# Should Geyser clone the Java port? Keep this false!
+clone-remote-port: "false"

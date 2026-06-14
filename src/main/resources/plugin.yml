@@ -1,0 +1,6 @@
+name: GeyserFix
+version: '2.0.0'
+main: dev.geyserfix.GeyserFix
+api-version: '1.21'
+description: Patches Geyser config.yml before Geyser loads to set correct bedrock port
+authors: [GeyserFix]
