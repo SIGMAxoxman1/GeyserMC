@@ -1,0 +1,11 @@
+# GeyserFix Configuration
+
+# How many ticks to wait after server start before fixing configs
+# 20 ticks = 1 second. Keep at 20 or higher.
+delay-ticks: 20
+
+# Should query be enabled in server.properties?
+enable-query: "false"
+
+# What port should query use? (doesn't matter if enable-query is false)
+query-port: "25565"
