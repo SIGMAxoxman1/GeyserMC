@@ -1,9 +1,0 @@
-name: GeyserFix
-version: '1.0.0'
-main: dev.geyserfix.GeyserFix
-api-version: '1.21'
-description: Fixes Pterodactyl panel overriding Geyser and server.properties config on restart
-authors: [GeyserFix]
-load: POSTWORLD
-softdepend:
-  - Geyser-Spigot
